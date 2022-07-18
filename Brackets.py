@@ -21,34 +21,6 @@
 
 # ----------------------------------------------------->>>>>>>>>>>>>>>>>
 
-# n = input("Enter Brackets: ")
-# l = []
-# l1 = []
-# for i in range(len(n)):
-#     l.append(n[i])
-
-# for j in range(len(n)):
-#     for k in range(len(n)):
-#         if l[j] == '(':
-#             if l[k] == ')':
-#                 l1.append(l[j])
-#                 l1.append(l[k])
-#         if l[j] == '{':
-#             if l[k] == '}':
-#                 l1.append(l[j])
-#                 l1.append(l[k])
-#         if l[j] == '[':
-#             if l[k] == ']':
-#                 l1.append(l[j])
-#                 l1.append(l[k])
-# print(l)
-# print(l1)
-# if len(l) == len(l1):
-#     print("True")
-# else:
-#     print("False")
-
-
 n = input("Enter Brackets: ")
 l = []
 for i in range(len(n)):
