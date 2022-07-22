@@ -1,5 +1,5 @@
-# # Fibonaci using recursion ---------------
-# # 1 1 2 3 5 8
+# Fibonaci using recursion ---------------
+# 0 1 1 2 3 5 8
 a = 0
 b = 1
 sum = 0
